@@ -7,8 +7,6 @@ Supports mouse clicks and **keyboard input**, and handles all the basic math ope
 
 ## 📸 Preview
 
-> Replace `screenshot.png` with your actual image file name
-
 ![Calculator Screenshot](./image.png)
 
 ---
