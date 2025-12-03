@@ -23,7 +23,7 @@ const reset = () => {
 }
 
 const handleInput = (key) => {
-    if(/[+\-*/%.]/.test(key) && !(/[+\-*/%.]/.test(DOM.input.value)) ){
+    if(/[+\-*/%.]/.test(key) && !(/[+\-*/%]/.test(DOM.input.value)) ){
         DOM.input.value += key; 
     } 
     else if (!(/[+\-*/%.]/.test(key))) {
